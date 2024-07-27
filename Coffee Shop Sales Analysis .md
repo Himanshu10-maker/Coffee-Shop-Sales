@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales
 
+The primary focus of this project is to analyze and visualize essential business metrics related to orders and revenue for a coffee shop. key insights include  Best Performing Store, Highest Sold Product Category, Most Selling Coffee, Average price/order per person and so on.
+
 Q. How do sales vary by day of the week and hour of the day?
 A. Monday stands out as the highest sales day, while 10 AM is identified as the peak hour for coffee orders."
 
